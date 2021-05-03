@@ -1,0 +1,10 @@
+артикул, наименование, количество, цена
+art4, g4, 5, 140
+art5, g5, 120, 100
+art1, g1, 10, 120
+art2, g3, 102, 150
+art3, g2, 120, 100
+art10, g10, 10, 101
+art11, g11, 11, 1111
+art12, g12, 1, 1
+art111, T. Samsung A20, 10, 10000, TYPE=giftPhone, { brend:Samsung; model:A20 }
